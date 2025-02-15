@@ -1,0 +1,23 @@
+body {
+  background-color: #ffe6e6; /* Light pink Valentine's theme */
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #ff4d6d;
+  font-size: 2rem;
+}
+
+canvas {
+  border: 5px solid #ff4d6d;
+  border-radius: 10px;
+  background-color: white;
+}
